@@ -49,12 +49,12 @@ You can copy and paste the above text into your `README.md` file. It includes an
 
 Below is the interface of the Calculator application:
 
-![Calculator Interface](images/calculator_interface.png)
+![Calculator Interface](images/Calculator_Interface.png)
 
 When you perform a calculation like `5 + 3 * 2`, the expression is displayed in the text field:
 
-![Example Calculation](images/example_calculation.png)
+![Example Calculation](images/Example_Calculation.png)
 
 After pressing `=`, the result is shown:
 
-![Calculation Result](images/calculation_result.png)
+![Calculation Result](images/Calculation_Result.png)
